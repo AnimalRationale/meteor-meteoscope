@@ -9,3 +9,4 @@ insecure
 mrt:bootstrap-3
 standard-app-packages
 iron:router
+sacha:spin
