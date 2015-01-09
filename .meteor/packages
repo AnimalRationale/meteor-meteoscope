@@ -7,4 +7,5 @@
 meteor-platform
 insecure
 mrt:bootstrap-3
-iron-router
+standard-app-packages
+iron:router
